@@ -34,7 +34,7 @@
         "searchButtonLabel": "search products",
         "logoAlt": "Sample Logo",
         "searchIconAlt": "search icon",
-        "greetingText": "Hi Junjun",
+        "greetingText": "Hi Customer",
         "historyLink": "ORDER HISTORY",
         "arrowAlt": "Drop Down Arrow",
         "cartAlt": "show cart",
@@ -43,6 +43,7 @@
         "navLinkVehicles": "VEHICLES"
     },
     "Home": {
+        "welcomeTitle": "Welcome to Sample Logo!",
         "welcomeSubtitle": "We provide everything you need to take on the Empire (and win).",
         "symbolAlt": "Imperial Credit currency symbol"
     },
@@ -104,7 +105,15 @@
     "LocaleSelector": {
         "localeLabel": "Locale: ",
         "localeEN": "English - US",
-        "localeZH": "Chinese - China"
+        "localeZH": "简体中文 - 中国"
     },
-    "Special": "Special"
+    "Special": "Special",
+    
+    "order": {
+        "statusProcessing": "Processing",
+        "statusShipped": "Shipped",
+        "statusDelivered": "Delivered"
+    },
+    "firstNameLabel": "First Name",
+    "lastNameLabel": "Last Name"
 }

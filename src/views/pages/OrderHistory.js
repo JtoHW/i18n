@@ -35,8 +35,8 @@ let OrderHistory = {
                     <h3>${order.getOrderDate()}</h3>
                     <h3>${order.orderNumber}</h3>
                     <div class="gridPrice">
-                        $
-                        ${formatCurrencyWithCommas(order.total)}
+                        
+                        ${i18n.formatCurrency(order.total)}
                     </div>
                     <h3>${order.getOrderStatus()}</h3>
                 </article>`

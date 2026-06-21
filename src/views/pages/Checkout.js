@@ -1,4 +1,4 @@
-import { shoppingCart, orderHistory, saveCart, router } from "../../app.js";
+import { shoppingCart, orderHistory, saveCart, router, locale } from "../../app.js";
 
 import i18n from '../../services/i18n.js';
 
@@ -16,6 +16,22 @@ let Checkout = {
         let shipSectionLabel = i18n.getString("Checkout", "shipSectionLabel");
         let firstNameLabel = i18n.getString("Checkout", "firstNameLabel");
         let lastNameLabel = i18n.getString("Checkout", "lastNameLabel");
+        let firstNameField = `
+    <div class="formElement name">
+        <label for="firstName">${firstNameLabel}</label>
+        <input type="text" id="firstName" name="firstName" class="checkoutInput" placeholder="${firstNameLabel}">
+    </div>`;
+
+let lastNameField = `
+    <div class="formElement name">
+        <label for="lastName">${lastNameLabel}</label>
+        <input type="text" id="lastName" name="lastName" class="checkoutInput" placeholder="${lastNameLabel}">
+    </div>`;
+
+let nameFields = locale === "zh-CN"
+    ? `${lastNameField}${firstNameField}`
+    : `${firstNameField}${lastNameField}`;
+
         let coordinatesLabel = i18n.getString("Checkout", "coordinatesLabel");
         let coordinatesHolder = i18n.getString("Checkout", "coordinatesHolder");
         let sectorLabel = i18n.getString("Checkout", "sectorLabel");
@@ -55,15 +71,8 @@ let Checkout = {
                     <h2>${shipSectionLabel}</h2>
                     <div class="form">
                         <div class="formInline">
-                            <div class="formElement name">
-                                <label for="firstName">${firstNameLabel}</label>
-                                <input type="text" id="firstName" name="firstName" class="checkoutInput" placeholder="${firstNameLabel}">
-                            </div>
-                            <div class="formElement name">
-                                <label for="lastName">${lastNameLabel}</label>
-                                <input type="text" id="lastName" name="lastName" class="checkoutInput" placeholder="${lastNameLabel}">
-                            </div>
-                        </div>
+    ${nameFields}
+</div>
 
                         <div class="formInline">
                             <div class="formElement">
