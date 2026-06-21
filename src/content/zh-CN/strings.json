@@ -1,117 +1,117 @@
 {
     "title": {
         "1": "3P0",
-        "2": "DUM-series Droid",
-        "3": "2-1B Surgical Droid",
+        "2": "DUM系列Droid",
+        "3": "2-1B 外科Droid",
         "4": "IG-88B Droid",
         "5": "Sphyrna Corvette",
-        "6": "G2 Repair Droid",
+        "6": "G2 修理机器人",
         "7": "CR90 Corvette",
-        "8": "74-Z Speeder Bike",
-        "9": "ETA-2 Interceptor",
+        "8": "74-Z Speeder 自行车",
+        "9": "ETA-2 拦截器",
         "10": "R3-Series Droid",
         "11": "T-70 X-Wing",
-        "12": "Y-Wing Fighter",
-        "13": "Super Tactical Droid"
+        "12": "Y-翼战斗员",
+        "13": "超级战术机器人"
     },
     "desc": {
-        "1": "Each droid is equipped with a SyntheTech AA-1 VerboBrain making them capable of storing enormous amounts of information, the additional memory space is often used to keep communication modules in the active memory so that long delays could be avoided while searching for linguistic information on mid-translation. A TranLang III communications module allows them to be fluent in over six million forms of communication. They also have the skills necessary to quickly analyze new unregistered languages and translate them into more well-known ones.",
-        "2": "Designed for maintaining podracers, pit droids are affordable, durable repair droids. Pit droids stand at a height of 1.19 meters but have the ability to fold into a compact form when not in use. This feature can be toggled by tapping their nose.",
-        "3": "The 2-1B droid model is highly advanced and intelligent with its programming being further advanced by some of the top physicians in the galaxy at the Rhinnal State Medical Academy, which also integrate heuristic processors. The most useful characteristic of the 2-1B droids is the ease with which owners can update their programming and appendages. A 2-1B droid can easily become a specialist in neurosurgery, podiatry, pediatrics, cybernetic limb replacement, and alien biology with a trip to a certified service center.",
-        "4": "A battered chrome war droid, IG-88 stands 1.96 meters in height. His steady aim, along with his ability to track targets with advanced sensors that ring his head and allow him to see in all directions, earns him great success. These sensors include multiple red photoreceptors, a heat sensor, and a sound sensor IG-88 also has a vocoder at the base of his head. His torso is able to fully rotate on the battlefield, allowing him to blast enemies on all sides. His tough metal body allows him to survive most attacks without taking any damage and features acid-proof servo wires.",
-        "5": "Several new features have been added to the original Sphyrna structure, including two extra modules mounted to the port and starboard of the craft, six escape pods in place of the cargo bay, and a fourth sublight drive mounted on top of the primary three, giving it enough power to single-handedly move a disabled Star Destroyer. 315 meters in length with a maximum acceleration of 900 kilometers per hour. Equipped with a hyper drive system.",
-        "6": "Intended to assist with shipboard repairs, the second-degree G2 repair droid is short in stature, standing 0.8 meters in height. It is also squat, with a wide, bottom-heavy stance that forces it to waddle when it walked. These traits, combined with its long, multi-jointed neck and widely spaced, weight-distributing feet, earns it the nickname 'goose droid.' Each G2 unit has a stripped-down, silver-and-brass-colored skeletal frame with exposed joints and wiring, with a colored trim. The droid's three-digit heavy manipulators can grasp most repair tools, while splayed feet aided in stabilizing its low center of gravity and gives the G2 extra stability when dealing with large, heavy equipment.",
-        "7": "Measuring 150 meters in length, it features two dual and four single turbolaser turrets, and has the ability to reach a maximum speed of 950 kph. According to Luke Skywalker, some combat-outfitted CR90 ships can be equipped with six dual turbolasers. Capable of carrying an entire diplomatic escort, it has a passenger capacity in the hundreds. Although the ships are not built as carriers, three RZ-1 A-wing interceptors can be attached to the docking rings, allowing for a small escort. They serve as the backbone of the early rebellion and Alliance. Though not particularly heavily armed, CR90s possess enough forward firepower to destroy a Gozanti-class cruiser quite easily.",
-        "8": "The 74-Z Speeder Bike is capable of reaching speeds up to and beyond five hundred kilometers per hour, and has a flight ceiling of twenty-five meters. 74-Zs are the military variant of the civilian 74-Y. They are controlled by handlebars located towards the front of the vehicle, and foot pedals slung underneath adjust speed and altitude. The highly maneuverable vehicles are equipped with sensor and communications devices located between the handlebars, including a comlink and a comlink-jamming device. The speeder is equipped with terrain-following sensors that link up with the HUD in the driver's helmet. They are armed with a forward rotating blaster cannon for combat.",
-        "9": "Measuring 5.47 meters in length, the ETA-2 is a highly maneuverable combat-oriented starfighter and is faster than its Aethersprite predecessor, with twin ion engines providing a maximum acceleration of 5,200G and a max speed of 1,500 kph. The Eta-2 features wings with upper and lower radiator panels, S-foils, that are opened to shed excess heat from the ship's engines. The radiator wings are primarily opened during intense combat. For defense, the ship featured two laser cannons and two ion cannons. Unlike laser cannons, the ship's ion cannons fire bursts of plasma that cause temporary electrical disruptions to their target upon impact.",
-        "10": "The R3-series astromech droid features much of the same hardware as its predecessor, the R2 unit, lacking only the earlier droid's extendible video sensor. The R3's chassis is largely cylindrical, appearing as an upright tube with a short, truncated cone at its base. Keeping the droid upright are two narrow legs, each of which terminate in a treaded foot shaped like trapezoidal prisms, a third leg is housed within the droid body and could be extended when necessary to afford greater stability. Capping the unit's design is a hardy, rotating, plastex or transparisteel dome. The astromech is sealed to allow for functionality in the vacuum of space.",
-        "11": "The T-70 X-wing starfighter is a cruciform starfighter measuring 12.48 meters in length with a maximum capacity of a single pilot and bottom-loaded astromech droid, which fits into a socket and can be variably configured for different models. If needed, the droid can fly the starfighter without the aid of a pilot, and can even do so remotely. The vessel's targeting computer, flight controls and other essential piloting instruments are located inside an armored cockpit module, under which a removable liquid-cooled flight computer further aids the pilot in ship-based operations. Access panels for computer access and storage exist inside the 'nose' of the vessel, along with an auxiliary generator and storage area typically used for stashing survival gear. A small sensor window marks the location of the ships primary sensor array at the very tip of the nosecone, located behind an emergency beacon. Behind the pilot, a built-in life support system allows the occupant to breathe in an oxygenated atmosphere.",
-        "12": "Affectionately known as a \"wishbone\" to Rebel Alliance and New Republic pilots, the Y-wing starfighter is deployed as a fighter-bomber, designed to fight its way to its objective, deliver its payload of high explosives, and fight its way out again. Its weaponry includes two laser cannons, two ion cannons, and two proton torpedo launchers. An astromech droid, such as an R2 unit, can be plugged into a socket behind the cockpit to act as a co-pilot and manage the ship's various systems.",
-        "13": "A pretty good droid for coordinating attacks. Not good at fighting, just good at planning."
+        "1": "每个机器人配备了一个合成技术AA-1Verbrain，使其能够储存大量信息。 增加的内存空间常常被用来将通信单元保留在有效的内存中，以便在寻找中译文的语言信息时能够避免长时间的拖延。 TranLang III通信单元使它们能够流利地进行600多万种通信形式。 他们还具备必要的技能，以迅速分析新的未注册语言并将其翻译成更广为人知的语言。",
+        "2": "专为维护马铃薯而设计的坑式机器人是负担得起的耐用修理机器人。坑式机器人位于1高度。 9 米，但在未使用时有能力折叠到紧凑的表单。此功能可以通过点击鼻子来切换。",
+        "3": "2-1B型机器人模型非常先进，智能强，其编程正由莱纳尔国立医学院银河系的一些顶级医生进一步推进。 它还集成了肝脏加工器。 2-1B机器人最有用的特点是拥有者能够轻松更新他们的编程和附录。 2-1B型机器人很容易成为神经外科、土豆科、儿科的专家。 通过前往经认证的服务中心来更换网上肢体和外来生物学。",
+        "4": "一座被殴打的铬战机IG-88高度为1.96米。 他的稳步目标，以及他能够用先进的传感器追踪目标并使他能够从各个方面看到他的脑袋。 他获得了极大的成功。 这些传感器包括多个红色光接收器、一个热传感器和一个声音传感器IG-88也在其头部的底部有一个声器。 他的龙卷风能够在战场上完全旋转，使他能够爆破各方的敌人。 他的铁身使他能够在大多数攻击中生存，而不受任何伤害，并且具有防酸的服务线。",
+        "5": "在原始Sphyrna结构中增加了几个新的功能，包括两个额外的模块安装在港口和手工艺的启动板上， 6辆越野车取代货物湾，4辆越野车坐在头三辆车上方， 给它足够的力量来单独移动一个残疾的星级毁灭者。 315米长度，每小时最多加速度900公里。装备了超载驱动系统。",
+        "6": "2级G2修理机器人在船上修理时处于短暂状态，处于0位。 海拔平面。它也是正方形，它采取了广泛的底重姿势，迫使它在行走时行驶。 这些特征，加上其漫长的、多联结的颈部和宽幅的重量分配英尺，赚取了昵称'gosose droid。 每个G2单元都有一个脱衣式、银色和彩色的骨架，上面有暴露的结壳和翼，上面有彩色边。 机器人的三位数重操纵器能够抓住大多数维修工具。 当玩耍脚帮助稳定其低重力中心，并且在处理大型重型设备时增加了G2的稳定性。",
+        "7": "测量长度为150米，其特点是两台双面涡轮机和四台单一涡轮机涡轮机， 并且能够达到最大速度950千卡。 根据Luke Skywalker的说法，一些已经配备的CR90 战斗艇可以配备6个双涡轮机。 它能够携带整个外交护送，有数百名乘客。 虽然这些船只不是作为承运人建造的，但可将三架RZ-1A翼拦截器附在停靠环上，从而可以进行小规模的护送。 他们是早期叛乱和联盟的骨干。 CR90s虽然不是装备精良，但拥有足够的前向火力，可以很容易地摧毁一辆Gozanti型巡洋舰。",
+        "8": "74-Z Speeder Bike能够达到每小时500公里以上的速度。 飞行最高限额为二十五米。 74至Z是74至Y平民的军事变体。 他们由车辆前面的手枪控制，并由步行上的行人在调整速度和海拔下方的速度和海拔。 高度可操纵的车辆配备的传感器和通信装置位于手提栏之间，包括一个联结和一个连环干扰装置。 速度器配备了地形传感器，在司机的头盔中连接到HUD。 他们配备了前方轮流开火炮作战。",
+        "9": "5. 分析和估价 ETA-2长度为7米，它是一支以战斗为导向的战斗战士，比艾瑟普尔特的前身快得多。 具有双离子引擎，最大加速度为5,200G，最大速度为1,500千ph。 Eta-2台具有上下辐射器面板S-foils的功能，可以从船发动机中释放过量热。 喷雾器翼主要是在激烈战斗中打开的，为防卫起见，船上有两只激光炮和两只离子炮。 与激光炮不同的是，船上的离子炮炮弹发射等离子弹，撞击目标时对等离子弹造成暂时电气中断。",
+        "10": "R3系列天体机器人具有与其前身R2单元大部分相同的硬件，仅缺少早先机器人可扩展的视频传感器。 R3的底盘基本上是气瓶，显示为直线管，基础上有一个短孔。 维持机器人直线是两条狭长的腿，每一条都在树形如陷阱形状的脚下结束， 第三段放置在机器人体内，必要时可以延长，以加强稳定。 设置单位设计的上限是一个硬的、旋转的、塑料或横向域。将天体封存以便在空间真空中发挥功能。",
+        "11": "T-70 X-wandstarter是一个十字架起步战士，测量12。 8米长度，最大容量为单引导体和底层天体表层， 适合套接字，可以为不同模型配置变量。 如果需要，机器人可以在没有飞行员援助的情况下飞行起始战士，甚至可以远距离这样做。 该船瞄准计算机、飞行控制和其他重要的试点仪器位于一个装甲驾驶舱模块内。 在这种情况下，一台可移动的液体冷却飞行计算机进一步协助船上作业飞行员。 在船只的“鼻子”内存在计算机存取和存储的访问面板。 连同一个辅助发电机和储藏区，通常用来施压存活器。 一个小型传感器窗口标志着船舶主传感器阵列位于紧急信标后的鼻孔正端的位置。 在试点项目的背后，一个内置的生命维持系统使居住者能够在氧气中呼吸。",
+        "12": "对反叛联盟和新共和国飞行员很有爱心，Y-翼起始战士被部署为战斗轰炸机， 它的目的是为实现其目标而奋斗，交付其高炸药的有效载荷，并再次扫除其出路。 它的武器包括两部激光炮、两部离子炮和两部质子雷管发射器。 一个天体机器人，例如一个R2单元， 可以在驾驶舱后面插入一个套接字，作为共同驾驶员和管理船只的各种系统。",
+        "13": "一个很好的协调攻击的机器人。不好战斗，好计划好吧。"
     },
     "Navbar": {
-        "searchPlaceholder": "What are you looking for?",
-        "searchButtonLabel": "search products",
-        "logoAlt": "Sample Logo",
-        "searchIconAlt": "search icon",
-        "greetingText": "Hi Customer",
-        "historyLink": "ORDER HISTORY",
-        "arrowAlt": "Drop Down Arrow",
-        "cartAlt": "show cart",
-        "navLinkHome": "HOME",
+        "searchPlaceholder": "你在寻找什么？",
+        "searchButtonLabel": "搜索产品",
+        "logoAlt": "示例徽标",
+        "searchIconAlt": "搜索图标",
+        "greetingText": "您好的客户",
+        "historyLink": "订阅历史",
+        "arrowAlt": "下箭头",
+        "cartAlt": "显示购物车",
+        "navLinkHome": "主屏幕",
         "navLinkDroids": "DROIDS",
-        "navLinkVehicles": "VEHICLES"
+        "navLinkVehicles": "天花座"
     },
     "Home": {
-        "welcomeTitle": "Welcome to Sample Logo!",
-        "welcomeSubtitle": "We provide everything you need to take on the Empire (and win).",
-        "symbolAlt": "Imperial Credit currency symbol"
+        "welcomeTitle": "欢迎来到示例标志！",
+        "welcomeSubtitle": "我们提供了你接管帝国所需的一切(和获胜)。",
+        "symbolAlt": "帝国信用货币符号"
     },
     "Checkout": {
-        "checkoutTitle": "Checkout",
-        "shipSectionLabel": "Shipping Info",
-        "firstNameLabel": "First Name",
-        "lastNameLabel": "Last Name",
-        "coordinatesLabel": "Coordinates",
+        "checkoutTitle": "签出",
+        "shipSectionLabel": "配送信息",
+        "firstNameLabel": "名字",
+        "lastNameLabel": "名字",
+        "coordinatesLabel": "坐标",
         "coordinatesHolder": "0,0,0",
-        "sectorLabel": "Sector",
-        "methodLabel": "Shipping Method",
-        "shipLightspeed": "Lightspeed",
-        "shipOvernight": "Overnight",
-        "shipStandard": "Standard",
-        "paySectionLabel": "Payment",
-        "payNameLabel": "Name on Card",
-        "payNameHolder": "First Last",
-        "accountLabel": "Credit Number",
+        "sectorLabel": "区段",
+        "methodLabel": "送货方式",
+        "shipLightspeed": "浅速度",
+        "shipOvernight": "过夜的",
+        "shipStandard": "标准的",
+        "paySectionLabel": "付款",
+        "payNameLabel": "卡片上的名称",
+        "payNameHolder": "倒数第一页",
+        "accountLabel": "信用号",
         "accountHolder": "1234567-9876-00",
-        "securityLabel": "Security Code",
+        "securityLabel": "安全码",
         "securityHolder": "123456",
-        "expDateLabel": "Expiration Date",
-        "cartTitle": "Shopping Cart",
-        "deleteAlt": "remove item from cart",
-        "totalLabel": "Total: ",
-        "orderLabel": "PLACE ORDER",
-        "termsStatement": "I have read and agree to the Terms and Conditions",
-        "termsLink": "(View)",
-        "successMessage": "Order placed successfully!",
-        "noItemMessage": "Add items to cart to checkout."
+        "expDateLabel": "过期日期",
+        "cartTitle": "购物车",
+        "deleteAlt": "从购物车中删除项目",
+        "totalLabel": "总计： ",
+        "orderLabel": "PLACE 订单",
+        "termsStatement": "我已阅读并同意条款和条件",
+        "termsLink": "(视图)",
+        "successMessage": "下单成功！",
+        "noItemMessage": "将项目添加到购物车结账。"
     },
     "ProductShow": {
-        "qtyLabel": "Qty: ",
-        "addToCartLabel": "ADD TO CART"
+        "qtyLabel": "数量： ",
+        "addToCartLabel": "添加到CART"
     },
     "Cart": {
-        "cartTitle": "Shopping Cart",
-        "noItemMsg": "No items in cart.",
-        "deleteAlt": "Delete item from cart",
-        "totalTitle": "Total: ",
-        "checkoutLabel": "CHECKOUT",
-        "closeAlt": "Close Cart"
+        "cartTitle": "购物车",
+        "noItemMsg": "购物车中没有项目。",
+        "deleteAlt": "从购物车中删除项目",
+        "totalTitle": "总计： ",
+        "checkoutLabel": "宝箱",
+        "closeAlt": "关闭购物车"
     },
     "OrderHistory": {
-        "historyTitle": "Order History",
-        "dateHeading": "Date",
-        "numberHeading": "Order Number",
-        "totalHeading": "Total",
-        "statusHeading": "Status"
+        "historyTitle": "订单历史",
+        "dateHeading": "日期",
+        "numberHeading": "订单号",
+        "totalHeading": "总计",
+        "statusHeading": "状态"
     },
     "Error404": {
-        "errorMessage": "404 Error: Page not found."
+        "errorMessage": "404 错误：找不到页面。"
     },
     "Bottombar": {
-        "menuAlt": "open sidebar menu"
+        "menuAlt": "打开侧边栏菜单"
     },
     "LocaleSelector": {
-        "localeLabel": "Locale: ",
-        "localeEN": "English - US",
+        "localeLabel": "本地： ",
+        "localeEN": "英语-美国",
         "localeZH": "简体中文 - 中国"
     },
-    "Special": "Special",
+    "Special": "特殊的",
     "order": {
-        "statusProcessing": "Processing",
-        "statusShipped": "Shipped",
-        "statusDelivered": "Delivered"
+        "statusProcessing": "处理中",
+        "statusShipped": "已发货",
+        "statusDelivered": "已发送"
     },
-    "firstNameLabel": "First Name",
-    "lastNameLabel": "Last Name"
+    "firstNameLabel": "名字",
+    "lastNameLabel": "名字"
 }
