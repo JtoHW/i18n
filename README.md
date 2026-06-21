@@ -3,4 +3,3 @@ This is the final project for TRLM8620. Students will clone this repo to create 
 
 06/2026
 I used this project again to revisit i18n files and solutions.
-
